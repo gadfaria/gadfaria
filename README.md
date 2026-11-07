@@ -1,23 +1,5 @@
-<div align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadfaria&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<h5 align="center">
-  ☕ Code and Coffee
-</h5>
+A passionate software developer who has been working in this field since 2019. Computer Engineer from UNIFEI, based in Brazil.
 
+[hello@gadfaria.com](mailto:hello@gadfaria.com)
 
-
-<!--
-**gadfaria/gadfaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☕ Code and Coffee
